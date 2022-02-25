@@ -1,16 +1,17 @@
-### Hi there 👋
+```python
+#!/usr/bin/python
 
-<!--
-**spooky1703/spooky1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Spooky:
+    
+    def __init__(self):
+        self.name = 'Alonso "Spooky_17"'
+        self.role = "Mexican Student"
+        self.language_spoken = ["en_US", "es_MX"]
+    
+    def say_hi(self):
+        print("Hello world!, hello, I am a young programmer with a lot of desire to improve every day")
 
-Here are some ideas to get you started:
+me = Spooky()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me.say_hi()
+```
