@@ -8,7 +8,7 @@ class Spooky:
         self.language_spoken = ["en_US", "es_MX"]
     
     def __str__(self):
-        return "Hello world!, hello, I am a young programmer with a lot of desire to improve every day"
+        return "life sucks, buy gold"
 
 print(Spooky())
 ```
