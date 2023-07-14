@@ -3,8 +3,8 @@
 class Spooky:
     
     def __init__(self):
-        self.name = 'Alonso "Spooky_17"'
-        self.role = "Mexican Student"
+        self.name = "Spooky17"
+        self.role = "Developer"
         self.language_spoken = ["en_US", "es_MX"]
     
     def __str__(self):
