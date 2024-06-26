@@ -47,8 +47,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/spooky1703/spooky1703/output/snake.svg" alt="Snake animation" />
-
 ###
