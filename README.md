@@ -1,6 +1,6 @@
 # 💫 About Me:
  I’m currently working on Data science<br> I’m looking for help with c++<br> I’m currently learning new frameworks<br> Ask me about c++<br> IPN student 🫏
-
+Check out my portfolio: https://spooky1703.github.io/SPOOKYDEV-LANDING/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/mexicodev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/al0o0ooo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Brilliant_Loss_3042) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25772338/spooky) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Spookyyyy17) 
