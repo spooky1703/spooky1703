@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on Data science<br> I’m looking for help with c++<br> I’m currently learning new frameworks<br> Ask me about c++<br> IPN student 🫏
+ I’m currently working on Data science<br>  I’m currently learning new frameworks<br> Ask me about c++<br> IPN student 🫏
 Check out my portfolio: https://spooky1703.github.io/SPOOKYDEV-LANDING/
 
 ## 🌐 Socials:
